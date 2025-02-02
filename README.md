@@ -10,8 +10,9 @@
 &nbsp;&nbsp;  &nbsp;&nbsp;  L 생명력 강제 감소(6번 누르면 게임오버) <br> 
 &nbsp;&nbsp;  -> 좌우 이동 조작 통일 시키는게 좋을듯 <br> 
 
-### Unity 버전  
+### Unity 버전 / Target Platform
 - **Unity 2022.3.35f1**
+- **PC(Windows)**
 
 
 ## 메인 폰트  
