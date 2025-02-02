@@ -3,10 +3,10 @@
 #### 테스트 링크:  [클릭](https://kchanyou.github.io/BabyBoks_PlayTest/) <br>
 #### 조작법 <br>
 &nbsp;&nbsp;  1. 로비 <br>
-&nbsp;&nbsp;  &nbsp;&nbsp;  Q,A 스테이지 좌우 이동 <br> 
+&nbsp;&nbsp;  &nbsp;&nbsp;  Q,&nbsp; A 스테이지 좌우 이동 <br> 
 &nbsp;&nbsp;  &nbsp;&nbsp;  O 선택 <br><br>
 &nbsp;&nbsp;  2. 스테이지 <br>
-&nbsp;&nbsp;  &nbsp;&nbsp;  Q,O 좌우 이동 
+&nbsp;&nbsp;  &nbsp;&nbsp;  Q,&nbsp; O 좌우 이동 <br>
 &nbsp;&nbsp;  &nbsp;&nbsp;  L 생명력 강제 감소(6번 누르면 게임오버) <br> 
 &nbsp;&nbsp;  -> 좌우 이동 조작 통일 시키는게 좋을듯 <br> 
 
