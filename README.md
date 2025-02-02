@@ -1,6 +1,6 @@
 # 베이비 복스
 
-#### 테스트 링크: https://kchanyou.github.io/Bok/ <br>
+#### 테스트 링크:  [클릭](https://kchanyou.github.io/BabyBoks_PlayTest/) <br>
 #### 조작법 <br>
   로비) q,a 좌우 스테이지 이동 / o 선택 <br>
   스테이지) q,o 좌우 이동 / l 생명력 강제 감소 <br> 
